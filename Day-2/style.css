@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+}
+
+.head{
+    color:red;
+}
+
+body {
+    background:black
+}
+
+.day2-head{
+    color:white;
+    position:absolute;
+    margin-left: 22%;
+    margin-top: -70px;
+}
+
+.card{
+    margin-left:33%;
+    background:aqua;
+    padding-bottom:10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    border: 3px solid red;
+    border-radius:5px;
+    width: 300px;
+    margin-top:300px;
+}
+
+.count{
+    color:white;
+    margin-left:25%;
+    font-size: 3rem;
+    margin-top:50px;
+}
+
+.Generate{
+    width:150px;
+    height:30px;
+    margin-left:80px;
+    border: 3px solid black;
+    background:palevioletred;
+    border-radius:5px;
+    margin-top: 40px;
+}
+
